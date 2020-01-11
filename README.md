@@ -1,7 +1,5 @@
 # Tone and Sculpt
 
-Neverthink is a demo project, where I have created a ReactNative mobile app based on Neverthink's existing website.
-
 ![App Preview](assets/demo.gif)
 
 ## Installation
@@ -9,11 +7,11 @@ Neverthink is a demo project, where I have created a ReactNative mobile app base
 Clone the repo 
 
 ```bash
-git clone https://github.com/SerdarMustafa1/NeverThink.git
+git clone https://github.com/SerdarMustafa1/TAS-Assignment.git
 ```
 
 ```bash
-cd NeverThink
+cd TAS-Assignment
 ```
 
 ```bash
@@ -31,9 +29,14 @@ npm install -g expo-cli
 
 To run on an iOS simulator, follow the instructions available on the [Expo website.](https://docs.expo.io/versions/v36.0.0/workflow/ios-simulator/)
 
+To run on an actual device. Please first download the expo app from either Google Play or iOS app store. 
+
+iOS: Open camera and scan QR code from your terminal or expo browser.
+
+Android: Open Expo app and click on scan QR code.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 
 ## License
 [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
