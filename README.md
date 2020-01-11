@@ -4,6 +4,8 @@
 
 ## Installation
 
+Scan the QR directly from Expo [snack](https://snack.expo.io/@git/github.com/SerdarMustafa1/TAS-Assignment), or
+
 Clone the repo 
 
 ```bash
