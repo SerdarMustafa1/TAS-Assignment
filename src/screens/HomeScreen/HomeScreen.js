@@ -3,6 +3,8 @@ import { Image, View, Text } from "react-native";
 import { styles } from "./HomeScreenStyles";
 
 import Scheduler from "../../components/Scheduler/Scheduler";
+import ContactDialer from "../../components/ContactDialer/ContactDialer";
+import Spacer from "../../components/Spacer/Spacer";
 
 class HomeScreen extends Component {
   constructor(props) {
@@ -20,6 +22,8 @@ class HomeScreen extends Component {
           <Text style={styles.bannerText}> Toruk Macto Schedule week 1 </Text>
         </View>
         <Scheduler />
+        <Spacer />
+        <ContactDialer />
       </View>
     );
   }
